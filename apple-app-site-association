@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "388GFW3H7U.com.thomsonreuters.onvio.clientcenter",
-				"paths": [ "#/register"]
+				"paths": [ "/register"]
 			}
 		]
 	}
