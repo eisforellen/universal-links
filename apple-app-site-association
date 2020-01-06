@@ -5,6 +5,10 @@
 			{
 				"appID": "388GFW3H7U.com.thomsonreuters.onvio.clientcenter",
 				"paths": [ "*" ]
+			}, 
+			{
+				"appID": "388GFW3H7U.com.thomsonreuters.samba",
+				"paths": [ "*" ]
 			}
 		]
 	}
